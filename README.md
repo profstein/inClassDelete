@@ -1,7 +1,7 @@
 inClassDelete
 =============
 
-Just an example we did in class, will delete later.
+Just an example we did in class, will delete later on in the day.
 
 # This is an H1
 ## This is an h2
